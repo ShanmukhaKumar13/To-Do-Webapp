@@ -77,7 +77,7 @@ function loadTodos() {
 
 
 // Typing effect for placeholder
-const placeholderText = "Write today's goals...";
+const placeholderText = "Write your goals...";
 let placeholderIndex = 0;
 
 function typePlaceholder() {
